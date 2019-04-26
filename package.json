@@ -1,0 +1,15 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "aprendendo node",
+  "main": "olamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "felipek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
